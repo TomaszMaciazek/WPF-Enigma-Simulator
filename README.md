@@ -1,6 +1,6 @@
 # Enigma Machine Simulator
 
-Project allows user to encode message with algorithm used in Enigma machine.
+WPF application that allows user to encode and decode messages with algorithm used in Enigma machine.
 
 User is able to set initial positions of three spinning rotors and choose plugboard connections.
 
